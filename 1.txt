@@ -4,3 +4,4 @@ merge_other:1
 merge_other:2
 merge_other:3
 merge_other:4
+merge_other: --ff-only
